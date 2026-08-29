@@ -1,0 +1,12 @@
+*.java linguist-language=Java
+*.py linguist-language=Python
+
+*.gaca linguist-language=Java
+*.script linguist-language=Python
+
+*.json linguist-detectable=false
+*.md linguist-detectable=false
+version.json linguist-detectable=false
+
+build/* linguist-vendored
+dist/* linguist-vendored
